@@ -40,9 +40,8 @@ input[type=submit] {
 div {
 	text-align: center;
 	width: 60%;
-	margin: 10% auto;
-	padding: 3%;
-	
+	margin: 2% auto;
+	padding: 3%;	
 	box-shadow: 3px 3px 10px tomato;
 	background: rgb(224, 222, 219);
 	
