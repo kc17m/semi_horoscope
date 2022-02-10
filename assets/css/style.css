@@ -40,6 +40,9 @@ div {
 	width: 80%;
 	margin: 10% auto;
 	padding: 3%;
+	border: 1px solid tomato;
+	box-shadow: 2px 2px 20px tomato;
+	
 }
 
 h2 {

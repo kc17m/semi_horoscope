@@ -45,6 +45,6 @@ function show() {
             break;
 
         default:
-            output.innerHTML = `<h2>Please enter a month</h2><br>`
+            output.innerHTML = `<h2>a month is needed, e.g. Jan, Feb, Mar, ...</h2><br>`
     }
 }
